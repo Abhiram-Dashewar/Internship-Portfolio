@@ -75,5 +75,3 @@ To customize this portfolio for your own use:
 Thank you to **Unified Mentor** for the guidance and opportunity during my internship journey.
 
 ---
-
-*Built with pure HTML, CSS, and JavaScript - no frameworks required*
