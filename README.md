@@ -21,14 +21,6 @@ This portfolio presents the work I developed during my 3-month internship (Octob
 - **Animations**: Intersection Observer API, CSS Transitions
 - **Deployment**: Static hosting compatible (GitHub Pages, Netlify, Vercel, etc.)
 
-## 📁 Project Structure
-internshipPortfolio/
-├── index.html # Main HTML file
-├── style.css # All styling and animations
-├── script.js # Interactive functionality
-└── README.md # Project documentation
-
-
 ## 🎯 Projects Showcased
 
 1. **Catering Management System** - Full-stack catering management with admin panel
