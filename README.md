@@ -16,7 +16,7 @@ This portfolio presents the work I developed during my 3-month internship (Octob
 
 ## 🛠 Technologies Used
 
-- **Frontend**: HTML5, CSS3, JavaScript (ES6+)
+- **Frontend**: HTML5, CSS3, JavaScript
 - **Styling**: CSS Grid, Flexbox, Custom Properties (CSS Variables)
 - **Animations**: Intersection Observer API, CSS Transitions
 - **Deployment**: Static hosting compatible (GitHub Pages, Netlify, Vercel, etc.)
