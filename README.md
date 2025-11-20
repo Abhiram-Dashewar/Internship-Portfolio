@@ -61,7 +61,7 @@ To customize this portfolio for your own use:
 - Email: abhiramdashewar@gmail.com  
 - LinkedIn: [linkedin.com/in/abhiram-dashewar](https://linkedin.com/in/abhiram-dashewar)  
 - GitHub: [github.com/Abhiram-Dashewar](https://github.com/Abhiram-Dashewar)
-- [Internship Portfolio](https://internship-portfolio-vt84.onrender.com)
+- Livesite Link: [Internship Portfolio](https://internship-portfolio-vt84.onrender.com)
 
 ## 🙏 Acknowledgments
 
