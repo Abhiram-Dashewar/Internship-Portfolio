@@ -1,4 +1,4 @@
-# Internship Showcase Portfolio
+# Unified Mentor's Internship Portfolio
 
 A modern, responsive portfolio website showcasing projects completed during my Frontend Developer internship at Unified Mentor.
 
