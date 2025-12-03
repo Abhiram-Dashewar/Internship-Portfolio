@@ -28,12 +28,6 @@ This portfolio presents the work I developed during my 3-month internship (Octob
 3. **SuperMall Web Application** - E-commerce style multi-shop platform
 4. **E-Bus Tracking & Management** - Bus tracking system
 
-## 🚀 Quick Start
-
-1. Clone or download the project files
-2. Open `index.html` in your web browser
-3. No build process or dependencies required
-
 ## 📱 Responsive Breakpoints
 
 - **Desktop**: 920px and above
