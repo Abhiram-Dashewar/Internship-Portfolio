@@ -4,7 +4,7 @@ A modern, responsive portfolio website showcasing projects completed during my F
 
 ## 📋 Overview
 
-This portfolio presents the work I developed during my 3-month internship (October 15 - December 15) at Unified Mentor. The site features a clean, professional design with smooth animations and responsive layouts.
+This portfolio presents the work I developed during my 3-month internship (October 15 - December 15) at Unified Mentor. The site features a clean, professional design with smooth animations and responsive layouts. Also it has projetc title and small decription about 4 projects with Github repository link and Deloyed website link. You can see the github repo of the project or see the live site also. 
 
 ## 🚀 Features
 
@@ -19,14 +19,14 @@ This portfolio presents the work I developed during my 3-month internship (Octob
 - **Frontend**: HTML5, CSS3, JavaScript
 - **Styling**: CSS Grid, Flexbox, Custom Properties (CSS Variables)
 - **Animations**: Intersection Observer API, CSS Transitions
-- **Deployment**: Static hosting compatible (GitHub Pages, Netlify, Vercel, etc.)
+- **Deployment**: Static hosting compatible (GitHub Pages, Netlify, Vercel, Render, etc.)
 
 ## 🎯 Projects Showcased
 
 1. **Catering Management System** - Full-stack catering management with admin panel
 2. **Clinic Management System** - Clinic admin portal with patient records
 3. **SuperMall Web Application** - E-commerce style multi-shop platform
-4. **E-Bus Tracking & Management** - Bus tracking system with live location
+4. **E-Bus Tracking & Management** - Bus tracking system
 
 ## 🚀 Quick Start
 
@@ -45,15 +45,6 @@ This portfolio presents the work I developed during my 3-month internship (Octob
 - **Background**: Dark theme `#0f1020`
 - **Typography**: Inter font family
 - **Spacing**: Consistent 8px grid system
-
-## 🔧 Customization
-
-To customize this portfolio for your own use:
-
-1. Update personal information in `index.html`
-2. Replace project links and descriptions
-3. Modify color scheme in CSS `:root` variables
-4. Update the logo path in the header section
 
 ## 📞 Contact
 
